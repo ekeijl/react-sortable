@@ -39,8 +39,7 @@
   ],
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0",
-    "react-dom": "^0.14.0 || ^15.0.0",
-    "sortablejs": "git://github.com/ekeijl/Sortable.git#master"
+    "react-dom": "^0.14.0 || ^15.0.0"
   },
   "dependencies": {
     "prop-types": "^15.5.8"
@@ -66,7 +65,7 @@
     "nib": "^1.1.2",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "sortablejs": "^1.5.1",
+    "sortablejs": "git://github.com/ekeijl/Sortable.git#master",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
     "tap": "^10.3.2",
