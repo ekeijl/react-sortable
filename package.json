@@ -40,7 +40,7 @@
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0",
     "react-dom": "^0.14.0 || ^15.0.0",
-    "sortablejs": "^1.5.1"
+    "sortablejs": "git://github.com/ekeijl/Sortable.git#master"
   },
   "dependencies": {
     "prop-types": "^15.5.8"
